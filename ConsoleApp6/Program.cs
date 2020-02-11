@@ -29,6 +29,7 @@ namespace ConsoleApp6
             for(int i = 0; i < nr.Count; i++)
             {
                 if (i > 9999 && i < 10001) g = i;
+                i = g;
 
             }
 
